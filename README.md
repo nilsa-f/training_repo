@@ -1,30 +1,19 @@
-# This is a large heading
+# Nina Frolova
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in a city in the Samara region, in Russia
 
-- This is
-- an unordered
-- list
+### I'm interested in
 
-1. This is
-2. an ordered
-3. list
+- *Traveling*
+- *Music*
+- *Healthy food* 
 
-Here is `some code` in the middle of a sentence.
+### Dreams
 
-```
-This is
-a block
-of code
-```
+I want to travel more, dream to visit Japanese, Great Britain, Italy etc
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/nilsa-f/training_repo/image/Git.PNG)
-
-nano README.md
+The best way to get in touch with me is [on facebook](https://www.facebook.com/nilsa.frolova).
