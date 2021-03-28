@@ -25,6 +25,6 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/nilsa-f/training_repo.git/image/Git.png)
+![This is an image.](https://github.com/nilsa-f/training_repo/image/Git.png)
 
 nano README.md
